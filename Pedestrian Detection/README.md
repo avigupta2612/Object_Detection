@@ -7,7 +7,7 @@ __Requirements__
 - Numpy
 - Matplotlib
 
-__Dataset__
+__Dataset__<br/>
 [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://www.cis.upenn.edu/~jshi/ped_html/)
 This dataset contains 170 images with 345 labelled pedestrians(masks and bounding boxes)
 To download the dataset [Click here](https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip) 
